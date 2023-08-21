@@ -25,7 +25,7 @@
 
 ## 운영체제의 구조/주요 구성요소
 
-[출처: [[Operating System] 운영체제의 구조 :: wonseok.log (tistory.com)](https://math-coding.tistory.com/80)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https://blog.kakaocdn.net/dn/S3U2H/btqHxbOhB2V/WeQANBQKfm6F58xkWsJZy0/img.png)
+[출처: [[Operating System] 운영체제의 구조 :: wonseok.log (tistory.com)](https://math-coding.tistory.com/80)](images/osArchitecture.png)
 
 출처: [[Operating System] 운영체제의 구조 :: wonseok.log (tistory.com)](https://math-coding.tistory.com/80)
 
