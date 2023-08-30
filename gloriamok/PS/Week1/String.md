@@ -20,7 +20,7 @@
 
 ## 관련 문제
 
-- 뜨거운 붕어빵 - [https://www.acmicpc.net/problem/11945](https://www.acmicpc.net/problem/11945)
+- [11945번: 뜨거운 붕어빵 (acmicpc.net)](https://www.acmicpc.net/problem/11945)
 
 ### 해설
 
