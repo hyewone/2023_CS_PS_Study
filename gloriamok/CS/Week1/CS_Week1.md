@@ -11,6 +11,7 @@
 # 운영체제(Operating System)란?
 
 - 컴퓨터 하드웨어 바로 위에 설치되어 사용자 및 다른 모든 소프트웨어와 하드웨어를 연결하는 스프트웨어 계층
+- 사용자가 하드웨어의 작동원리를 몰라도 하드웨어를 제어하고 최적화해서 효율적으로 활용할 수 있도록 도와주는 시스템 소프트웨어
 - 사용자가 컴퓨터를 편리하고 효과적으로 사용할 수 있도록 환경을 제공하는 시스템 소프트웨어
 
 ![출처: [운영체제 - 위키백과, 우리 모두의 백과사전 (wikipedia.org)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Operating_system_placement_kor.svg/270px-Operating_system_placement_kor.svg.png)
