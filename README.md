@@ -12,9 +12,9 @@ Crash SW engineer interview  🤩💫 ⭐️
 <br />
 
 # ⭐️ 이번주 스터디
-| 주차 | 날짜 | 키워드 | CS 질문 |
-| --- | --- | --- | --- |
-| 4 | 2023.09.12 (화) | 메인 메모리, 버추얼 메모리, 데이터베이스, SQL, DBMS, Scale-up, Scale-out, ORM |  |
+| 주차 | 날짜 | 키워드 |
+| --- | --- | --- |
+| 4 | 2023.09.12 (화) | 메인 메모리<br/>버추얼 메모리<br/>데이터베이스<br/>SQL<br/>DBMS<br/>Scale-up<br/>Scale-out<br/>ORM |
 
 <br />
 
@@ -36,11 +36,11 @@ Crash SW engineer interview  🤩💫 ⭐️
 <br />
 
 # 스터디 진행 상황 (2023.08.22~)
-| 주차 | 날짜 | 키워드 | CS 질문 |
-| --- | --- | --- | --- |
-| 1 | 2023.08.22 (화) | 운영체제, 인터럽트, 메모리 계층, 프로세스 & 스레드, 폰 노이만 구조 | [1주차 CS 질문](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week1/CS_Week1_questions.md) |
-| 2 | 2023.08.29 (화) | 프로세스의 구조/구성요소, 프로세스의 상태, 프로세스 생성, 프로세스 간 통신(IPC), 스레드 | 2주차 CS 질문 |
-| 3 | 2023.09.05 (화) | 프로세스 동기화, 뮤텍스/세마포어, 교착 상태, CPU 스케줄링 |  |
+| 주차 | 날짜 | 키워드 | CS 질문 | 발표자료 |
+| --- | --- | --- | --- | --- |
+| 1 | 2023.08.22 (화) | 운영체제<br/>인터럽트<br/>메모리 계층<br/>프로세스 & 스레드<br/>폰 노이만 구조 | [1주차 CS 질문](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week1/CS_Week1_questions.md) | [gloriamok](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week1/CS_Week1.md) |
+| 2 | 2023.08.29 (화) | 프로세스의 구조/구성요소<br/>프로세스의 상태<br/>프로세스 생성<br/>프로세스 간 통신(IPC)<br/>스레드 | [2주차 CS 질문](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week2/CS_Week2_questions.md) | [gloriamok](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week2/CS_Week2.md) |
+| 3 | 2023.09.05 (화) | 프로세스 동기화<br/>뮤텍스/세마포어<br/>교착 상태<br/>CPU 스케줄링 |  |  |
 
 <br />
 
