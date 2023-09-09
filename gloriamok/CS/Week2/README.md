@@ -7,6 +7,7 @@
 - [스레드](https://github.com/0805004949/2023_CS_PS_Study/blob/main/gloriamok/CS/Week2/CS_Week2.md#%EC%8A%A4%EB%A0%88%EB%93%9C-thread)
 
 # 2주차 CS 질문 리스트
+- [2주차 CS 질문 리스트](CS_Week2_questions.md)
 
 # 내용출처
 
